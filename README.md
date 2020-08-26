@@ -23,7 +23,7 @@ Veuillez suivre les indications suivantes:
 	                                 ****************************************************
 Veuillez suivre les indications suivantes:
 	
-1) 	A l'aide de votre interpretteur de commande (cmd.exe),
+1) 	A l'aide de votre interpreteur de commande (cmd.exe),
 	placer vous dans le dossier où vous avez téléchargé
 	le fichier compressé "GestionClient.jar"
 	('cd [chemin]/[dossier cible]').
